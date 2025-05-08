@@ -239,7 +239,7 @@ hr{
 .sectionbas{
     margin-top: 100px;
     padding: 10px 250px;
-    background:linear-gradient(rgba(0, 21, 58, 0.85), rgba(0, 21, 58, 0.85)), url(images/equipe.jpg) no-repeat;
+    background:linear-gradient(rgba(0, 21, 58, 0.85), rgba(0, 21, 58, 0.85)), url(equipe.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 450px;
