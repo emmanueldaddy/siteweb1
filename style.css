@@ -1,0 +1,269 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    margin: 0px 0px;
+    background: radial-gradient(circle at top right, #FFDFB9 20%, #FEF6E9 30%, #fdf9f3 80%);
+    
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 250px;
+}
+header{
+    /* background-color: rgb(253,243,233); */
+    
+}
+.section1{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 100px;
+    padding: 10px 250px;
+    /* background-color: rgb(253,243,233); */
+    height: 510px;  
+}
+.divjaune{
+    position: absolute;
+    background: #FF8534 ;
+    top: 190px;
+    right: 250px;
+    width: 480px;
+    height: 375px;
+    border-radius: 50%;
+    z-index: -1; 
+}
+.divjauneimage{
+    position: absolute;
+    background: #FF8534 ;
+    top: 190px;
+    right: 250px;
+    width: 480px;
+    height: 375px;
+    border-radius: 50%;
+    z-index: -1; 
+}
+.span1{
+    position: absolute;
+    top: 430px;
+    right: 150px;
+}
+.span2{
+    position: absolute;
+    top: 120px;
+    right: 250px;
+}
+.span3{
+    position: absolute;
+    top: 270px;
+    right: 610px;
+}
+.divimgsection1 span img{
+    border-radius: 10px;
+}
+.divpsection3_a img{
+    border-top-right-radius: 600px;
+    border-bottom-right-radius: 200px;
+}
+
+.div1section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin: 0px 250px;
+    width: 1000px;
+    border-radius: 10px;
+    
+}
+.div1section2 h2{
+    margin: 5px;
+    padding-top: 20px;
+}
+.div1section2 img{
+    width: 150px;
+}
+.section3{
+    display: flex;
+    padding: 10px 250px;
+    margin-top: 70px;
+}
+.divpsection3{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+.divph2 p{
+    color: #FF8534;
+    margin-bottom: 0px;
+}
+.marketing{
+    display: flex;
+    flex-direction: column;
+}
+.img_mark{
+    float: left;
+    
+}
+.divph2 p{
+    color: #FF8534;
+}
+.divh3_1{
+    margin-left: 70px;
+}
+.divpsection3_a p{
+    background-color: white;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    position: absolute;
+    top: 830px;
+    left: 230px;
+}
+.divph2 h2{
+    text-align: center;
+}
+.divpsection3_a p span{
+    font-size: 50px;
+    font-weight: bold;
+    color: #FF8534;
+}
+.section4{
+    padding: 10px 250px;
+    margin-top: 70px;
+}
+.les4div{
+    display: flex;
+    margin-top: 30px;
+    gap: 20px;
+}
+.les4div_a{
+    background-color: rgb(244, 131, 55);
+    color: white;
+    padding: 30px 15px;
+    border-radius: 10px;
+    height: 230px;
+}
+.les4div_b{
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+    height: 250px;
+    
+}
+.les4div_c{
+    background-color: white;
+    padding: 30px 15px;
+    border-radius: 10px;
+    height: 230px;
+}
+.les4div_d{
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+    height: 250px;
+    
+}
+.les4div div img{
+    width: 50px;
+}
+.divph2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.p1{
+    background-color: #FF8534;
+    border-radius: 20px;
+    padding: 7px 20px;
+    margin-top: 3   0px;
+    margin-bottom: 10px;
+    width: 130px;
+    font-size: 13px;
+    color: white;
+}
+.section1_div1 div h1{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.section1_div1{
+    margin-top: 70px;
+}
+.discorver{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.discorver a{
+    background-color: #FF8534;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+hr{
+    margin: 0px;
+}
+.divnavd{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.div_a{
+    display: flex;
+    gap: 30px;
+    font-size: 17px;
+}
+.get_started{
+    background-color: #FF8534;
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+.get_started a{
+    color: white;
+    font-size: 15px;
+}
+.sectionbas{
+    margin-top: 100px;
+    padding: 10px 250px;
+    background:linear-gradient(rgba(0, 21, 58, 0.85), rgba(0, 21, 58, 0.85)), url(images/equipe.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sectionbas h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.divh4{
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
+}
+.divh4 div h4{
+    margin: 0px;
+    font-size: 30px;
+    color: #FF8534;
+}
+.divh4 div p{
+    margin: 0px;
+}
